@@ -1,10 +1,7 @@
-# YinYang EQ League video links
+# YinYang EQ demo media
 
-Public, existing demo videos hosted directly on GitHub Pages for short MP4 links:
+The historical cinematic trailer and mobile walkthrough have been retired. No video files are currently published in this repository.
 
-- Cinematic trailer: https://yinyangeqlab.github.io/t.mp4
-- Mobile demo: https://yinyangeqlab.github.io/m.mp4
+Visit [YinYang EQ](https://yinyangeq.com) or the [application repository](https://github.com/yinyangeqlab/yinyang-eq-lab). The project is directed and maintained by Yin Yang EQ Lab, with assistance from OpenAI Codex and Anthropic Claude.
 
-Paste a direct URL on its own line in Discord. This repository contains only public promotional media and its credit page. The application and original 1080p downloads remain at [yinyangeqlab/yinyang-eq-league](https://github.com/yinyangeqlab/yinyang-eq-league).
-
-The recordings date from October 17, 2026. Streaming copies use H.264/AAC fast-start MP4, approximately 4 MB each. See [the video page](https://yinyangeqlab.github.io/) for soundtrack credits. Original application, branding and presentation by Yin Yang EQ Lab; video rights are reserved except where separately licensed. The music retains its credited CC BY 4.0 licenses. This media repository does not adopt the application's Apache 2.0 code license.
+Historical soundtrack credits: “Discovery” by Scott Buckley and “The Funk” by Hotham, each under CC BY 4.0. Full credits remain in the application repository’s demo credit documents.
